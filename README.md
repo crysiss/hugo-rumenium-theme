@@ -1,6 +1,6 @@
-# Hugo Natrium
+# Hugo Rumenium
 
-A simple responsive blog theme for [Hugo](https://gohugo.io/) based on [Lithium](https://github.com/jrutheiser/hugo-lithium-theme.git)
+A simple responsive blog theme for [Hugo](https://gohugo.io/) based on [Natrium](https://github.com/jrutheiser/hugo-natrium-theme.git)
 
 ## Changes
 
